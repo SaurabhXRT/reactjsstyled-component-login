@@ -139,7 +139,7 @@ const Login = () => {
             </InputLabel>
           
             <InputLabel>
-              <input type="checkbox" /> I agree
+              <input type="checkbox" /> I agree  <a href="/"  style={{ textDecoration: 'none', color: 'green' }}>to terms and condition</a>
             </InputLabel>
             <p>
               <a href="/"  style={{ textDecoration: 'none', color: 'green' }}>Change Password</a>
